@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3 year undergraduate student from [School of Physics and Astronomy](https://spa.sysu.edu.cn/), Sun Yat-sen University
+I am a 3 year undergraduate student from [School of Physics and Astronomy](https://spa.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/)
 
 A data-driven personal website
 ======
