@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Undergraduate in School of Physics and Astronomy, Sun Yat-sen University, 2023
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* # M.S. in Jekyll, GitHub University, 2014
+* # Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
@@ -31,6 +31,7 @@ Skills
 ======
 * Skill 1
 * Skill 2
+  * 
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
@@ -56,4 +57,4 @@ Teaching
   
 Service and leadership
 ======
-//* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams
