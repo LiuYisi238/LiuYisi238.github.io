@@ -11,31 +11,16 @@ redirect_from:
 
 Education
 ======
-* Undergraduate in School of Physics and Astronomy, Sun Yat-sen University, 2023
-* # M.S. in Jekyll, GitHub University, 2014
-* # Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in School of Physics and Astronomy, Sun Yat-sen University, 2024(expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* NO working experience now
+ 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * 
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Progamming: Pyhthon, Matlab
+
 
 Publications
 ======
@@ -57,4 +42,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* None
