@@ -19,7 +19,7 @@ I am intersted in quantum field, especially quantum gravity now.
 CV
 =====
 More details can be found in [CV](https://liuyisi238.github.io//cv/).
-Or you can download my [CV](LiuYisi238.github.io/files/CV.pdf) here.
+Or you can view my [CV](https://liuyisi238.github.io/files/CV.pdf) here.
 
 Publications
 ======
