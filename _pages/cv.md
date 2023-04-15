@@ -29,7 +29,7 @@ Awards
 
 Personal Statement
 =====
-You can view my [personal statement](LiuYisi238.github.io/files/PersonalStatement.pdf) here.
+You can view my [personal statement](https://liuyisi238.github.io/files/PersonalStatment.pdf) here.
 
 
 Skills
