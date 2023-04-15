@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me(Building)"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,31 +12,27 @@ I am a 3 year undergraduate student from [School of Physics and Astronomy](https
 
 Research Field
 ======
-* Mathematical Physics
-* Quantum Field Theory
-* Quantum Gravity
-* String Theory
+I am intersted in quantum field, especially quantum gravity now.
 
 Publications
 ======
+More details can be found in [Publications](https://liuyisi238.github.io//publications/).
 
-magnum opus
+JUST EXAMPLE
 ------
 
-**others**
+**JUST EXAMPLE**
 
 Talks
 ======
-
+More details can be found in [Talks](https://liuyisi238.github.io//talks/).
 
 Teaching
 ======
-
-
-
-
+More details can be found in [Teaching](https://liuyisi238.github.io//teaching/).
 
 
 For more info
 =====
-
+More details can be found in [CV](https://liuyisi238.github.io//cv/).
+Or you can download my CV here.
