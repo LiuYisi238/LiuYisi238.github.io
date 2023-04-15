@@ -27,6 +27,10 @@ Awards
 * 2020-2021 Sun Yat sen University Outstanding Scholarship, First Prize
 * 2021-2022 Sun Yat sen University Outstanding Scholarship, Second Prize
 
+Personal Statement
+=====
+You can view my [persional statement](LiuYisi238.github.io/files/Personal Statement) here
+
 Skills
 ======
 * Progamming: Python, Matlab
