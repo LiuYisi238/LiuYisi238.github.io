@@ -29,7 +29,7 @@ Awards
 
 Skills
 ======
-* Progamming: Pyhthon, Matlab
+* Progamming: Python, Matlab
 * Writing: Latex
 
 Work experience
