@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in School of Physics and Astronomy, Sun Yat-sen University, 2024(expected)
-* M.B.S. in School of Mathermatics(ZHUHAI), Sun Yat-sen University, 2024(expected)
+* B.S. in School of Mathermatics(ZHUHAI), Sun Yat-sen University, 2024(Minor, expected)
 
 Scientific Research Experience
 =====
