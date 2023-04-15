@@ -20,14 +20,10 @@ CV
 =====
 More details can be found in [CV](https://liuyisi238.github.io//cv/).
 Or you can download my [CV](LiuYisi238.github.io/files/CV.pdf) here.
+
 Publications
 ======
 More details can be found in [Publications](https://liuyisi238.github.io//publications/).
-
-JUST EXAMPLE
-------
-
-**JUST EXAMPLE**
 
 Talks
 ======
@@ -37,7 +33,11 @@ Teaching
 ======
 More details can be found in [Teaching](https://liuyisi238.github.io//teaching/).
 
-
 For more info
 =====
 Building 
+
+JUST EXAMPLE
+------
+
+**JUST EXAMPLE**
