@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in School of Physics and Astronomy, Sun Yat-sen University, 2024(expected)
-* B.S. in School of Mathermatics(ZHUHAI), Sun Yat-sen University, 2024(Minor, expected)
+* 2020-2024: B.Sc.(in physics) in [School of Physics and Astronomy](https://spa.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/)(expected)
+* 2020-2024: B.Sc.(in math) in [School of Mathematics(ZhuHai)](https://mathzh.sysu.edu.cn/zh-hans), [Sun Yat-sen University](https://www.sysu.edu.cn/)(Minor, expected)
 
-Scientific Research Experience
+Scientific Research Experience and Summer Camp
 =====
 * The Gamma Ray Integrated Detectors(GRID) team of Sun Yat-sen University, 2021.9-2023.1
 * The Feasibility Analysis of Solar Wind Measurement Using GRID Satellite, 2021.12-2022.12
