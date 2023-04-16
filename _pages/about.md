@@ -29,17 +29,20 @@ Or you can view my [CV](https://liuyisi238.github.io/files/CV.pdf) here.
 
 Publications
 ======
-No publications now
+No publications now.
+
 More details can be found in [Publications](https://liuyisi238.github.io//publications/).
 
 Talks
 ======
-No talks now
+No talks now.
+
 More details can be found in [Talks](https://liuyisi238.github.io//talks/).
 
 Teaching
 ======
-No teaching now
+No teaching now.
+
 More details can be found in [Teaching](https://liuyisi238.github.io//teaching/).
 
 For more info
