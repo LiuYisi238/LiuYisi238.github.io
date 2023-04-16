@@ -14,9 +14,9 @@ I am a 3 year undergraduate student from [School of Physics and Astronomy](https
 Educaion
 =====
 * 2020-2024:B.Sc(in physics) in [School of Physics and Astronomy](https://spa.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/)(expected)
-* 2020-2024:M.B.Sc(in math) in [School of Mathematics(ZhuHai)](https://mathzh.sysu.edu.cn/zh-hans), [Sun Yat-sen University](https://www.sysu.edu.cn/)(expected)
+* 2020-2024:M.B.Sc(in math) in [School of Mathematics(ZhuHai)](https://mathzh.sysu.edu.cn/zh-hans), [Sun Yat-sen University](https://www.sysu.edu.cn/)(Minor, expected)
 
-Academic Interest]
+Academic Interest
 ======
 * Mathematical Phyisics
 
