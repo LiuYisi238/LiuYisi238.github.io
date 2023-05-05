@@ -8,46 +8,48 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3 year undergraduate student from [School of Physics and Astronomy](https://spa.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/) now. I major in Physics and minor in Mathematics and Applied Mathematics.
+I am a 3 year undergraduate student from [School of Physics and Astronomy](https://spa.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/) now. I major in Physics and minor in Mathematics and Applied Mathematics. My academic interest is mathematical physics.
+
+In physics, I have learned theoretical mechanics(classical mechanics), quantum mechanics and general gravity. Now I am reading the book: Mathematical Methods of Classical Mechanics. In math, I have learned ODE, mathematical analysis and higher algebra. Now I am learning real function, complex function, differential geometry and functional analysis. I read some books and gained some knowledge about algebra(abstract algebra) last summer vaction.
 
 
 Educaion
 =====
-* 2020-2024:B.Sc(in physics) in [School of Physics and Astronomy](https://spa.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/)(expected)
-* 2020-2024:M.B.Sc(in math) in [School of Mathematics(ZhuHai)](https://mathzh.sysu.edu.cn/zh-hans), [Sun Yat-sen University](https://www.sysu.edu.cn/)(Minor, expected)
+* B.Sc(in physics) in [School of Physics and Astronomy](https://spa.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/), 2020-2024.(expected)
+* B.Sc(in math) in [School of Mathematics(ZhuHai)](https://mathzh.sysu.edu.cn/zh-hans), [Sun Yat-sen University](https://www.sysu.edu.cn/), 2020-2024.(minor, expected)
 
 Academic Interest
 ======
 * Mathematical Phyisics
 
-I am intersted in quantum field, string theory and especially quantum gravity now.
+I am especially intersted in quantum gravity now. Quantum field and string theory are also my academic interests.
 
 CV
 =====
-More details can be found in [CV](https://liuyisi238.github.io//cv/).
-Or you can view my [CV](https://liuyisi238.github.io/files/CV.pdf) here.
+More details can be found in the column [CV](https://liuyisi238.github.io//cv/)(click it).
+Or you can view my pdf [CV](https://liuyisi238.github.io/files/CV.pdf) here(click it).
 
 Publications
 ======
 No publications now.
 
-More details can be found in [Publications](https://liuyisi238.github.io//publications/).
+More details can be found in the column [Publications](https://liuyisi238.github.io//publications/)(click it).
 
 Talks
 ======
 No talks now.
 
-More details can be found in [Talks](https://liuyisi238.github.io//talks/).
+More details can be found in the column [Talks](https://liuyisi238.github.io//talks/)(click it).
 
 Teaching
 ======
 No teaching now.
 
-More details can be found in [Teaching](https://liuyisi238.github.io//teaching/).
+More details can be found in the column [Teaching](https://liuyisi238.github.io//teaching/)(click it).
 
 For more info
 =====
-Building 
+If you are interested in me and my work, please feel free to email me: liuys8@mail2.sysu.edu.cn 
 
 JUST EXAMPLE
 ------
