@@ -30,12 +30,6 @@ Awards
 * 2021-2022 Sun Yat sen University Outstanding Scholarship, Second Prize
 
 
-Skills
-======
-* Progamming: Python, Matlab
-* Writing: Latex
-
-
 Work experience
 ======
 * NO working experience now
@@ -65,6 +59,12 @@ Teaching
 Service and leadership
 ======
 * None
+
+
+Other Skills
+======
+* Progamming: Python, Matlab
+* Writing: Latex
 
 
 Personal Statement
