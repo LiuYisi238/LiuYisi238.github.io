@@ -61,27 +61,27 @@ Representative Publications
 ======
 No publications now.
 
-More can be found in the column [Publications](https://liuyisi238.github.io//publications/)(click it).
+More can be found in the column [Publications](https://liuyisi238.github.io//publications/).
 
 
 Representative Talks
 ======
 No talks now.
 
-More can be found in the column [Talks](https://liuyisi238.github.io//talks/)(click it).
+More can be found in the column [Talks](https://liuyisi238.github.io//talks/).
 
 
 Recent Teaching
 ======
 No teaching now.
 
-More can be found in the column [Teaching](https://liuyisi238.github.io//teaching/)(click it).
+More can be found in the column [Teaching](https://liuyisi238.github.io//teaching/).
 
 
 CV
 =====
-You can find it in the column [CV](https://liuyisi238.github.io//cv/)(click it).
-Or you can view my pdf [CV](https://liuyisi238.github.io/files/CV.pdf) here(click it).
+You can find it in the column [CV](https://liuyisi238.github.io//cv/).
+Or you can view my pdf [CV](https://liuyisi238.github.io/files/CV.pdf) here.
 
 
 For more info
