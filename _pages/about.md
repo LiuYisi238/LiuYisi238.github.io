@@ -40,8 +40,8 @@ Math
 * Geometry and Algebra 2(will be finished in 2023.6)
 * Real Function(will be finished in 2023.6)
 * Complex Function(will be finished in 2023.6)
-* Solid State Physics(will be finished in 2023.6)
-* Solid State Physics(will be finished in 2023.6)
+* Differential Geometry(will be finished in 2023.6)
+* Functional Analysis(will be finished in 2023.6)
 
 **Self-learning**
 * None
