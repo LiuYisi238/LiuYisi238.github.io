@@ -78,14 +78,7 @@ No teaching now.
 More can be found in the column [Teaching](https://liuyisi238.github.io//teaching/).
 
 
-Experimental Paper
-=====
 
-Linear Influence of Weak Magnetic field on HTS Material YBa2Cu3O7-\delta
------
-* paper
-* [Original Data](https://liuyisi238.github.io/files/OriginalDataOfHTSExperiment.rar)
-* [Data-Processing Code](https://liuyisi238.github.io/files/DataProcessingOfHTSExperiment.rar)
 
 
 CV
