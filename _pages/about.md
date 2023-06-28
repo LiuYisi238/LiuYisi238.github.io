@@ -10,9 +10,9 @@ redirect_from:
 
 I am a 3 year undergraduate student from [School of Physics and Astronomy](https://spa.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/) now. I major in Physics and minor in Mathematics and Applied Mathematics.
 
-In physics, I have learned theoretical mechanics(classical mechanics), quantum mechanics and general gravity. Now I am learning Solid State Physics and reading the book: Mathematical Methods of Classical Mechanics. 
+In physics, I have learned theoretical mechanics(classical mechanics), quantum mechanics, general gravity and so on. Now I am learning Solid State Physics and reading the book: Mathematical Methods of Classical Mechanics. 
 
-In math, I have learned ODE, mathematical analysis and higher algebra. Now I am learning real function, complex function, differential geometry and functional analysis. I read some books and gained some knowledge about algebra(abstract algebra) last summer vaction.
+In math, I have learned ODE, mathematical analysis, higher algebra, real function, complex function, differential geometry and functional analysis. I read some books and gained some knowledge about algebra(abstract algebra) last summer vaction.
 
 
 Academic Interest
@@ -28,23 +28,25 @@ Recent Learning
 Physics
 ------
 **Curriculum**
-* Solid State Physics(will be finished in 2023.6)
+* None
 
 **Self-learning**
 * Classical Mechanics with the book: Mathematical Methods of Classical Mechanics, V.I.Arnold(hope to finish Part1 and Part2 reading in 2023, finish Part3 reading before 2024.6)
+
+**Learned**
+Mechanics, Thermology, Electromagnetism, Optics, Atomic Physics, Theoretical Mechanics, Electrodynamics, Thermodynamics and Statistical Mechanics, Quantum Mechanics, General Gravity, Solid State Physics
 
 Math
 ------
 **Curriculum**
 * Mathematical Analysis 2(will be finished in 2023.6)
 * Geometry and Algebra 2(will be finished in 2023.6)
-* Real Function(will be finished in 2023.6)
-* Complex Function(will be finished in 2023.6)
-* Differential Geometry(will be finished in 2023.6)
-* Functional Analysis(will be finished in 2023.6)
 
 **Self-learning**
 * None
+
+**Learned**
+Mathematical Analysics(1), Higher Algebra(1), ODE, Real Function, Complex Function, Differential Geometry, Functional Analysis
 
 
 Recent Work
@@ -54,7 +56,7 @@ Recent Work
 
 Recent Seminar
 =====
-* Quantum Gravity Seminar, held by professor [Sun JiaRui](https://spa.sysu.edu.cn/zh-hans/teacher/178)'s team, as a member, 2023.3-now.
+* Quantum Gravity Seminar, held by professor [Sun JiaRui](https://spa.sysu.edu.cn/zh-hans/teacher/178)'s team, as a member, 2023.3-now.(NO seminar in summer vacation)
 
 
 Representative Publications
