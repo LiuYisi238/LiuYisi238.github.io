@@ -32,8 +32,10 @@ Physics
 
 **Self-learning**
 * Classical Mechanics with the book: Mathematical Methods of Classical Mechanics, V.I.Arnold(hope to finish Part1 and Part2 reading in 2023, finish Part3 reading before 2024.6)
+* Quantum Field Theory with the book: An Introduction to Quantum Field Theory, Peskin(No concrete plan now, just do some reading these days)
 
 **Learned**
+
 Mechanics, Thermology, Electromagnetism, Optics, Atomic Physics, Theoretical Mechanics, Electrodynamics, Thermodynamics and Statistical Mechanics, Quantum Mechanics, General Gravity, Solid State Physics
 
 Math
@@ -46,6 +48,7 @@ Math
 * None
 
 **Learned**
+
 Mathematical Analysics(1), Higher Algebra(1), ODE, Real Function, Complex Function, Differential Geometry, Functional Analysis
 
 
