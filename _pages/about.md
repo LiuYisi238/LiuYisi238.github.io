@@ -88,7 +88,7 @@ Experimental Paper
 
 Linear Influence of Weak Magnetic field on HTS Material YBa2Cu3O7-\delta
 -----
-* [Paper](https://liuyisi238.github.io/files/PaperOfHTSExperiment.odf)
+* [Paper](https://liuyisi238.github.io/files/PaperOfHTSExperiment.pdf)
 * [Original Data](https://liuyisi238.github.io/files/OriginalDataOfHTSExperiment.rar)
 * [Data-Processing Code](https://liuyisi238.github.io/files/DataProcessingOfHTSExperiment.rar)
 
