@@ -41,15 +41,14 @@ Mechanics, Thermology, Electromagnetism, Optics, Atomic Physics, Theoretical Mec
 Math
 ------
 **Curriculum**
-* Mathematical Analysis 2(will be finished in 2023.6)
-* Geometry and Algebra 2(will be finished in 2023.6)
+* None
 
 **Self-learning**
 * None
 
 **Learned**
 
-Mathematical Analysics(1), Higher Algebra(1), ODE, Real Function, Complex Function, Differential Geometry, Functional Analysis
+Mathematical Analysics(1-2), Higher Algebra(1-2), ODE, Real Function, Complex Function, Differential Geometry, Functional Analysis
 
 
 Recent Work
