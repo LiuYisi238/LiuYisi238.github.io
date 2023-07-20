@@ -53,7 +53,8 @@ Mathematical Analysics(1-2), Higher Algebra(1-2), ODE, Real Function, Complex Fu
 
 Recent Work
 =====
-* Writting a book: ODE for Physicists and Theoretical Physicists(hope to finish it in 2024)
+* Writting a book: ODE for Physicists and Theoretical Physicists(hope to finish it in 2024, write in chinese)
+* Things concerning Ricci flow, geometric flow, black hole and string theory(still in understanding stage)
 
 
 Recent Seminar
