@@ -15,23 +15,23 @@ Textbooks of Mathematics
 
 Topology
 -----
-1. [Basic Topology, Armstrong.](https://github.com/LiuYisi238/LiuYisi238.github.io/blob/master/files/topology-armstrong.pdf)    
-   [Solutions to Armstrong Basic Topology.](https://github.com/LiuYisi238/LiuYisi238.github.io/blob/master/files/topology-armstrong-solutions.pdf)
-2. [Topology, Munkres.](https://github.com/LiuYisi238/LiuYisi238.github.io/blob/master/files/topology-munkres.pdf)
-3. [Topology without tears, Sidney.](https://github.com/LiuYisi238/LiuYisi238.github.io/blob/master/files/topology-sidney.pdf)
+1. [Basic Topology, Armstrong.](https://liuyisi238.github.io/files/topology-armstrong.pdf)    
+   [Solutions to Armstrong Basic Topology.](https://liuyisi238.github.io/files/topology-armstrong-solutions.pdf)
+2. [Topology, Munkres.](https://liuyisi238.github.io/files/topology-munkres.pdf)
+3. [Topology without tears, Sidney.](https://liuyisi238.github.io/files/topology-sidney.pdf)
 
 
 Algebra
 ------
 1. [Algebra, Serge Lang.](https://math24.files.wordpress.com/2013/02/algebra-serge-lang.pdf)
-2. [Algebra, Artin.](https://github.com/LiuYisi238/LiuYisi238.github.io/blob/master/files/algebra-artin.pdf)
-3. [Algebra, Hungerford.](https://github.com/LiuYisi238/LiuYisi238.github.io/blob/master/files/algebra-hungerford.pdf)
-4. [A Book of Abstract Algebra, Pinter](https://github.com/LiuYisi238/LiuYisi238.github.io/blob/master/files/algebra-pinter.pdf)
+2. [Algebra, Artin.](https://liuyisi238.github.io/files/algebra-artin.pdf)
+3. [Algebra, Hungerford.](https://liuyisi238.github.io/files/algebra-hungerford.pdf)
+4. [A Book of Abstract Algebra, Pinter](https://liuyisi238.github.io/files/algebra-pinter.pdf)
 
 
 Algebraic Topology
 -----
-1. [Algebraic Topology, Allen Hatcher](https://github.com/LiuYisi238/LiuYisi238.github.io/blob/master/files/algebraic-topology-Allen-Hatcher.pdf)
+1. [Algebraic Topology, Allen Hatcher](https://liuyisi238.github.io/files/algebraic-topology-Allen-Hatcher.pdf)
 
 
 
@@ -44,7 +44,7 @@ Quantum Field Theory
 
 General Relativity
 -----
-1. [An Introduction to General Relativity: Spacetime and Geometry, Allen Hatcher](https://github.com/LiuYisi238/LiuYisi238.github.io/blob/master/files/general-relativity-Carroll.pdf)
+1. [An Introduction to General Relativity: Spacetime and Geometry, Allen Hatcher](https://liuyisi238.github.io/files/general-relativity-Carroll.pdf)
 
 Group Theory
 -----
