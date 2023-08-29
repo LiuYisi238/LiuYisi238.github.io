@@ -28,11 +28,12 @@ Recent Learning
 Physics
 ------
 **Curriculum**
-* None
+* Quantum Field Theory
+* Group Theory
 
 **Self-learning**
 * Classical Mechanics with the book: Mathematical Methods of Classical Mechanics, V.I.Arnold(hope to finish Part1 and Part2 reading in 2023, finish Part3 reading before 2024.6)
-* Quantum Field Theory with the book: An Introduction to Quantum Field Theory, Peskin(No concrete plan now, just do some reading these days)
+* Quantum Field Theory with the book: The Quantum Theory of Fields, Steven Weinberg(No concrete plan now, just do some reading these days)
 
 **Learned**
 
@@ -41,20 +42,23 @@ Mechanics, Thermology, Electromagnetism, Optics, Atomic Physics, Theoretical Mec
 Math
 ------
 **Curriculum**
-* None
+* Algebra
+* Topology
+* PDE
+* Mathematical Analysis
 
 **Self-learning**
 * None
 
 **Learned**
 
-Mathematical Analysics(1-2), Higher Algebra(1-2), ODE, Real Function, Complex Function, Differential Geometry, Functional Analysis
+Mathematical Analysis(1-2), Geometry and Algebra(1-2), ODE, Real Function, Complex Function, Differential Geometry, Functional Analysis
 
 
 Recent Work
 =====
-* Writting a book: ODE for Physicists and Theoretical Physicists(hope to finish it in 2024, write in chinese)
-* Things concerning Ricci flow, geometric flow, black hole and string theory(still in understanding stage)
+* Things concerning dS spacetime(Penrose diagram, killing vector, symmetry, temperature, entropy,... in all solutions), general relativity.
+* Overview of dS Spacetime and AdS Spacetime(hope to finish it in two years, write in English).
 
 
 Recent Seminar
