@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yisi Liu"
+title                    : "Louis"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yisi Liu"
+  name             : "Yisi Liu(Louis)"
   avatar           : "ID-Photo.jpg"
   bio              : "Mathematicis and Physics are natural and simple."
   location         : "ZhuHai,China Mainland"
