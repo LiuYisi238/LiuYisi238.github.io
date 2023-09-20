@@ -44,7 +44,7 @@ Quantum Field Theory
 
 General Relativity
 -----
-1. [An Introduction to General Relativity: Spacetime and Geometry, Allen Hatcher](https://liuyisi238.github.io/files/general-relativity-Carroll.pdf)
+1. [An Introduction to General Relativity: Spacetime and Geometry, Carroll](https://liuyisi238.github.io/files/general-relativity-Carroll.pdf)
 
 Group Theory
 -----
@@ -52,7 +52,7 @@ Group Theory
 
 
 
-Lecture Notes
+Notes
 ======
-
+1. [Notes on Topology](https://liuyisi238.github.io/files/NotesonTopology.pdf)
 
