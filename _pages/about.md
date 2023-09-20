@@ -63,7 +63,7 @@ Recent Work
 
 Recent Seminar
 =====
-* Quantum Gravity Seminar, held by professor [Sun JiaRui](https://spa.sysu.edu.cn/zh-hans/teacher/178)'s team, as a member, 2023.3-now.(NO seminar in summer vacation)
+* Quantum Gravity Seminar, held by professor [Sun JiaRui](https://spa.sysu.edu.cn/zh-hans/teacher/178)'s team, as a member, 2023.3-now.
 
 
 Representative Publications
