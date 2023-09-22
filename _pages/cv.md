@@ -20,6 +20,7 @@ Scientific Research Experience and Summer Camp
 * The Gamma Ray Integrated Detectors(GRID) team of Sun Yat-sen University, 2021.9-2023.1
 * The Feasibility Analysis of Solar Wind Measurement Using GRID Satellite, 2021.12-2022.12
 * GRID Summer Camp 2022, 2022.8-2022.9
+* The 3rd Frontier Summer Lectures of Strings, Fields and Holography, 2023.8.21-2023.8.27
 
 
 Awards
