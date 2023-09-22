@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3 year undergraduate student from [School of Physics and Astronomy](https://spa.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/) now. I major in Physics and minor in Mathematics and Applied Mathematics.
+I am a 4 year undergraduate student from [School of Physics and Astronomy](https://spa.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/) now. I major in Physics and minor in Mathematics and Applied Mathematics.
 
 In physics, I have learned theoretical mechanics(classical mechanics), quantum mechanics, general gravity and so on. Now I am learning Solid State Physics and reading the book: Mathematical Methods of Classical Mechanics. 
 
