@@ -27,6 +27,7 @@ Algebra
 2. [Algebra, Artin.](https://liuyisi238.github.io/files/algebra-artin.pdf)
 3. [Algebra, Hungerford.](https://liuyisi238.github.io/files/algebra-hungerford.pdf)
 4. [A Book of Abstract Algebra, Pinter](https://liuyisi238.github.io/files/algebra-pinter.pdf)
+5. [Linear Representations of Finite Groups, Serre](https://liuyisi238.github.io/files/algebra-serre.pdf)
 
 
 Algebraic Topology
