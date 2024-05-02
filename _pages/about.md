@@ -42,17 +42,14 @@ Mechanics, Thermology, Electromagnetism, Optics, Atomic Physics, Theoretical Mec
 Math
 ------
 **Curriculum**
-* Algebra
-* Topology
-* PDE
-* Mathematical Analysis
+* None
 
 **Self-learning**
-* None
+* Lie Algebra
 
 **Learned**
 
-Mathematical Analysis(1-2), Geometry and Algebra(1-2), ODE, Real Function, Complex Function, Differential Geometry, Functional Analysis
+Mathematical Analysis(1-3), Geometry and Algebra(1-2), ODE, Real Function, Complex Function, Differential Geometry, Functional Analysis, Algebra, Topology, PDE.
 
 
 Recent Work
