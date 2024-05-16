@@ -53,13 +53,13 @@ Mathematical Analysis(1-3), Geometry and Algebra(1-2), Real Function, Complex Fu
 
 Recent Work
 =====
-* Things concerning dS spacetime(Penrose diagram, killing vector, symmetry, temperature, entropy,... in all solutions), general relativity.
-* Overview of dS Spacetime and AdS Spacetime(hope to finish it in two years, write in English).
+* Feynman Geometry.
+* Lie groups and Lie algebras.
 
 
 Recent Seminar
 =====
-* Seminar on Lie groups and Lie algebras, held by SIMIS students, as one of leader, 2024.5-now.(Our Program)
+* Seminar on Lie groups and Lie algebras, held by SIMIS students, as one of leader, 2024.5-now.
 
 
 Representative Publications
