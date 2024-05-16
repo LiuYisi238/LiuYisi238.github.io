@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Sc.(in physics) in [School of Physics and Astronomy](https://spa.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/), 2020-2024.(expected)
-* B.Sc.(in math) in [School of Mathematics(ZhuHai)](https://mathzh.sysu.edu.cn/zh-hans), [Sun Yat-sen University](https://www.sysu.edu.cn/), 2020-2024.(minor, expected)
+* B.Sc.(in physics) in [School of Physics and Astronomy](https://spa.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/), 2020-2024.
+* B.Sc.(in math) in [School of Mathematics(ZhuHai)](https://mathzh.sysu.edu.cn/zh-hans), [Sun Yat-sen University](https://www.sysu.edu.cn/), 2020-2024.(minor)
+* PH.D in [Shanghai Institute for Mathematics and Interdisciplinary Sciences](https://www.simis.cn/), [Fudan University](https://www.fudan.edu.cn/), 2024-2029.(expected)
 
 
 Scientific Research Experience and Summer Camp
